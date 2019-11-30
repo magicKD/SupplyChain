@@ -37,7 +37,7 @@ Fisco-bcos运行环境：Ubuntu 18.04.3
 
 3. 将contracts/文件夹下的合约文件通过Webase部署到Fisco-bcos链上
 
-4. 在`前后端代码\SupplyChain_v2`的文件夹下，先运行如下命令，来安装相对应的包依赖
+4. 在`前后端代码/`的文件夹下，先运行如下命令，来安装相对应的包依赖
 
    ```
    npm install

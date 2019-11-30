@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "username": "test",
+            "password": "123456",
+            "email": "",
+            "phone": ""
+        },
+        {
+            "username": "MotorCompany",
+            "password": "123456",
+            "email": "MotorCompany@sysu.edu.cn",
+            "phone": "12345678"
+        },
+        {
+            "username": "TireCompany",
+            "password": "123456",
+            "email": "TireCompany@sysu.edu.cn",
+            "phone": "12345678"
+        },
+        {
+            "username": "HubCompany",
+            "password": "123456",
+            "email": "HubCompany@sysu.edu.cn",
+            "phone": "12345678"
+        },
+        {
+            "username": "Bank",
+            "password": "123456",
+            "email": "Bank@sysu.edu.cn",
+            "phone": "12345678"
+        }
+    ]
+}
